@@ -13,3 +13,9 @@
     .hero-img{
         width: 500px;
     }
+
+.svg{
+    stroke: orange;
+    height: 70px;
+    width: 70px;
+}
